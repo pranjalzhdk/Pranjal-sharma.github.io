@@ -23,7 +23,7 @@ function  draw() {
 	
 	if(mouseIsPressed) {
 		len = 0;  
-		bg = color(89, 30, 33);
+		bg = color(89, 30, 120);
 	}
 }
 
